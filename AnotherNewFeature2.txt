@@ -1,1 +1,2 @@
 someNewFeature2
+second line
